@@ -1,0 +1,57 @@
+.navigation{
+    float: right;
+    height: 100%;
+    margin-top: 6px;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+
+.navigation a li{
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+}
+
+.navigation a:hover{
+    background-color: gray;
+    color: #101010;
+}
+
+.navigationp1{
+    color: white;
+    background-color: #101010;
+}
+
+.p1{
+    font-size: 200%;
+    padding: 30px;
+    margin: 50px;
+}
+
+.p2{
+    margin-left: 76px;
+    margin-right: 76px;
+}
+
+.leftimg {
+    margin-left: 76px;
+    margin-right: 76px;
+    float:left; /* Выравнивание по левому краю */
+   }
+
+.rightimg  {
+    margin-left: 76px;
+    margin-right: 76px;
+    float: right; /* Выравнивание по правому краю  */
+   }
+
+.font-size170{
+    font-size: 170%;
+    }
